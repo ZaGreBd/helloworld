@@ -1,5 +1,5 @@
 # helloworld
 
-Esse é o meu primeiro código no github.
+Meu primeiro projeto JS
 
 by Pedro Neto
